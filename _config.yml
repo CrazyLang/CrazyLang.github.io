@@ -25,7 +25,7 @@ markdown:           kramdown
 
 # Navigation
 nav:
-  - name:           "About Michaecl"
+  - name:           "About"
     href:           "//crazylang.github.io/about"
   - name:           "project"
     href:           "//github.com/CrazyLang/CrazyLang.github.io"
