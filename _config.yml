@@ -3,14 +3,14 @@
 # # # # # # # #
 
 # Basic
-name:               "Kiko"
-description:        "a clean, lightweight and minimalistic blog theme for jekyll"
+name:               "Michael"
+description:        "Something about writing/product/coding/architect"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
 url:                "//crazylang.github.io"
-author:             "gfjaru"
+author:             "Michael"
 twitter:
-  username:         "gfjaru"
+  username:         "Michael"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
@@ -25,10 +25,10 @@ markdown:           kramdown
 
 # Navigation
 nav:
-  - name:           "About"
+  - name:           "About Michaecl"
     href:           "//crazylang.github.io/about"
-  - name:           "Download"
-    href:           "//crazylang.github.io/gfjaru/Kiko/releases"
+  - name:           "project"
+    href:           "//github.com/CrazyLang/CrazyLang.github.io"
 
 # Sass
 sass:
